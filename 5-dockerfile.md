@@ -86,13 +86,17 @@ Docker usa un mecanismo de caché cuando crea imágenes para acelerar el proceso
 
 ### Crear un contenedor a partir de las imagen creada, mapear todos los puertos
 ```
-
+docker run -d -P --name mi-contenedor mi-imagen:2.0
 ```
 
 ### ¿Con que puerto host se está realizando el mapeo?
+
+puerto host: 32768
 # COMPLETAR CON LA RESPUESTA
 
 **¿Qué es una imagen huérfana?**
+
+Una imagen huérfana en Docker (también llamada dangling image) es una imagen que no tiene nombre ni etiqueta (tag) y no está asociada a ningún contenedor activo
 # COMPLETAR CON LA RESPUESTA
 
 ### Identificar imágenes huérfanas
