@@ -55,11 +55,18 @@ No olvides verificar en qué directorio se encuentra el archivo Dockerfile
 ```
 
 ```
+<img width="1297" height="412" alt="image" src="https://github.com/user-attachments/assets/95f5796b-9931-42c1-9914-94f2c5f0342e" />
 
 **¿Cuántos pasos se han ejecutado?**
+
+4 pasos
 # RESPONDER 
 
 ### Inspeccionar la imagen creada
+<img width="763" height="697" alt="image" src="https://github.com/user-attachments/assets/d838e61c-ec10-4461-9a21-60d97aa215bd" />
+<img width="770" height="244" alt="image" src="https://github.com/user-attachments/assets/4cb81251-0322-4ba7-bd9a-35f7819c6390" />
+
+
 # COMPLETAR CON UNA CAPTURA
 
 **Modificar el archivo index.html para incluir su nombre y luego crear una nueva versión de la imagen anterior**
