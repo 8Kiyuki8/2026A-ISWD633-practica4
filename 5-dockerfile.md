@@ -71,6 +71,9 @@ No olvides verificar en qué directorio se encuentra el archivo Dockerfile
 
 **Modificar el archivo index.html para incluir su nombre y luego crear una nueva versión de la imagen anterior**
 **¿Cuántos pasos se han ejecutado? ¿Observa algo diferente en la creación de la imagen**
+se ejecutaron 4 pasos, fue mucho mas rapido que la creacion de la imagen anteriior
+<img width="1366" height="414" alt="image" src="https://github.com/user-attachments/assets/20c48eef-03a1-4843-ba5f-8639bd155ab9" />
+
 
 ## Mecanismo de caché
 Docker usa un mecanismo de caché cuando crea imágenes para acelerar el proceso de construcción y evitar la repetición de pasos que no han cambiado. Cada instrucción en un Dockerfile crea una capa en la imagen final. Docker intenta reutilizar las capas de una construcción anterior si no han cambiado, lo que reduce significativamente el tiempo de construcción.
