@@ -53,7 +53,7 @@ docker build -t <nombre imagen>:<tag> .
 ### Ejecutar el archivo Dockerfile y construir una imagen en la versión 1.0
 No olvides verificar en qué directorio se encuentra el archivo Dockerfile
 ```
-
+docker build -t mi-imagen:1.0 .
 ```
 <img width="1297" height="412" alt="image" src="https://github.com/user-attachments/assets/95f5796b-9931-42c1-9914-94f2c5f0342e" />
 
